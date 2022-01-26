@@ -27,22 +27,21 @@ The data are as follows:
 
 03: 5 - 14 years
 
-04:15 - 24 years
+04: 15 - 24 years
 
-05:25 - 34 years
+05: 25 - 34 years
 
-06:35 - 44 years
+06: 35 - 44 years
 
-07:45 - 54 years
+07: 45 - 54 years
 
-08:55 - 64 years
+08: 55 - 64 years
 
-09:65 - 74 years
+09: 65 - 74 years
 
-10:75 - 84 years
+10: 75 - 84 years
 
-11:85 years and over
-
+11: 85 years and over
 12: Age not stated
 
 
