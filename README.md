@@ -22,17 +22,29 @@ The information provided by the dataset on the age of the deceased does not indi
 The data are as follows:
 
 01: Under 1 year (includes not stated infant ages)
+
 02: 1 - 4 years
+
 03: 5 - 14 years
+
 04:15 - 24 years
+
 05:25 - 34 years
+
 06:35 - 44 years
+
 07:45 - 54 years
+
 08:55 - 64 years
+
 09:65 - 74 years
+
 10:75 - 84 years
+
 11:85 years and over
+
 12: Age not stated
+
 
 For the calculation of the life expectancy of each year, the weighted average of the sum of each average value of the above sets was calculated on the number of deaths that belonged to each of them.
 That is,
@@ -44,15 +56,25 @@ The results are as follows:
 ![alt text](https://github.com/AM1241/Usa-Mortality-Analysis-from-Kaggle-via-Pyspark/blob/main/images/img1.png?raw=true)
 
 2005: 70.5 years
+
 2006: 70.4 years
+
 2007: 70.5 years
+
 2008: 70.7 years
+
 2009: 70.6 years
+
 2010: 71.0 years
+
 2011: 71.08 years
+
 2012: 71.1 years
+
 2013: 71.2 years
+
 2014: 71.16 years
+
 2015: 71.19 years
 
 It makes sense to have a significant margin of inaccuracy in the price of each year, due to the lack of more specific data.
@@ -146,10 +168,15 @@ Below are some examples of visualizing the results of four races from those in t
 
 
 Whites: The total number of deaths throughout the 11 years is 23,703,335.
+
 Unusual diseases: 4,223,428,
+
 Ischemic heart disease: 3,741,934,
+
 Non-ischemic heart disease: 1,780,478,
+
 Tracheal cancers: 1,507,723,
+
 Chronic Respiratory Problems: 1,415,205
 
 
@@ -157,22 +184,34 @@ Chronic Respiratory Problems: 1,415,205
 
 
 Colored: The total number of deaths throughout the 11 years is 3,258,257.
+
 Unusual diseases: 528,724,
+
 Ischemic heart disease: 454,375,
+
 Non-ischemic heart disease: 237,692,
+
 Cerebrovascular diseases: 237,692,
+
 Tracheal cancers: 182,243
+
 
 
 ![alt text](https://github.com/AM1241/Usa-Mortality-Analysis-from-Kaggle-via-Pyspark/blob/main/images/img4.3.png?raw=true)
 
 
 Native American: The total number of deaths throughout the 11 years is 174,392.
+
 Unusual diseases: 30,221,
+
 Ischemic heart disease: 21,037,
+
 Unspecified accidents: 11,961,
+
 Diabetes: 9,749,
+
 Other malignancies: 8,890
+
 
 
 
@@ -180,8 +219,13 @@ Other malignancies: 8,890
 
 
 Filipinos living in the US: The total number of deaths throughout the 11 years is 106,432.
+
 Ischemic heart disease: 17,866,
+
 Unusual diseases: 14,391
+
 Cerebrovascular diseases: 8,825,
+
 Other malignancies: 7,230
+
 Tracheal cancers: 6,774
