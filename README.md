@@ -42,6 +42,7 @@ The data are as follows:
 10: 75 - 84 years
 
 11: 85 years and over
+
 12: Age not stated
 
 
@@ -84,24 +85,34 @@ The following is a comparison of two of the most discussed causes of death in a 
 
 2005
 deaths of firearms are: 30426 deaths of vehicles are: 45711
+
 2006
 deaths of firearms are: 30612 deaths of vehicles are: 45694
+
 2007
 deaths of firearms are: 30964 deaths of vehicles are: 44299
+
 2008
 deaths of firearms are: 31335 deaths of vehicles are: 40129
+
 2009
 deaths of firearms are: 31073 deaths of vehicles are: 36473
+
 2010
 deaths of firearms are: 31382 deaths of vehicles are: 35590
+
 2011
 deaths of firearms are: 31961 deaths of vehicles are: 35519
+
 2012
 deaths of firearms are: 33158 deaths of vehicles are: 36679
+
 2013
 deaths of firearms are: 33208 deaths of vehicles are: 35650
+
 2014
 deaths of firearms are: 33184 deaths of vehicles are: 35688
+
 2015
 deaths of firearms are: 35856 deaths of vehicles are: 38093
 
