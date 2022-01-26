@@ -16,6 +16,7 @@ accidents.
 <b>D)</b> Deaths per breed and their causes.
 
 <b>A.</b>
+
 The information provided by the dataset on the age of the deceased does not indicate the exact age of death of each person, but is divided into age intervals. The most accurate intervals are 5 years apart and are in the column titled age_recode_12. Therefore, we used this for our research.
 
 The data are as follows:
@@ -57,6 +58,7 @@ The results are as follows:
 It makes sense to have a significant margin of inaccuracy in the price of each year, due to the lack of more specific data.
 
 <b>B.</b>
+
 The following is a comparison of two of the most discussed causes of death in a society, as the measures to deal with them depend to a large extent on the human factor. There were 353159 deaths caused by gunfire and 429525 due to a car accident in 11 years 2005-2015.
 
 2005
@@ -85,23 +87,24 @@ deaths of firearms are: 35856 deaths of vehicles are: 38093
 ![alt text](https://github.com/AM1241/Usa-Mortality-Analysis-from-Kaggle-via-Pyspark/blob/main/images/img2.png?raw=true)
 
 <b>C.</b>
+
 In 11th, the two main causes of death each year were searched from the field with the most detailed description of causes 358_cause_recode (456 items). It is noteworthy that in each year the two main causes are each time the same (All other forms of chronic ischemic heart disease (I20, I25.1-I25.9) and Of trachea, bronchus and lung (C33-C34)).
 
 The results of each year are as follows:
 
-2005
+2005:
 All other forms of chronic ischemic heart disease (I20, I25.1-I25.9): 228656
 Of trachea, bronchus and lung (C33-C34): 159405
 
-2006
+2006:
 All other forms of chronic ischemic heart disease (I20, I25.1-I25.9): 219304
 Of trachea, bronchus and lung (C33-C34): 158786
 
-2007
+2007:
 All other forms of chronic ischemic heart disease (I20, I25.1-I25.9): 210552
 Of trachea, bronchus and lung (C33-C34): 158889
 
-2008
+2008:
 All other forms of chronic ischemic heart disease (I20, I25.1-I25.9): 208809
 Of trachea, bronchus and lung (C33-C34): 158808
 
@@ -109,36 +112,39 @@ Of trachea, bronchus and lung (C33-C34): 158808
 All other forms of chronic ischemic heart disease (I20, I25.1-I25.9): 200067
 Of trachea, bronchus and lung (C33-C34): 158269
 
-2010
+2010:
 All other forms of chronic ischemic heart disease (I20, I25.1-I25.9): 196116
 Of trachea, bronchus and lung (C33-C34): 158425
 
-2011
+2011:
 All other forms of chronic ischemic heart disease (I20, I25.1-I25.9): 192773
 Of trachea, bronchus and lung (C33-C34): 157148
 
-2012
+2012:
 All other forms of chronic ischemic heart disease (I20, I25.1-I25.9): 190869
 Of trachea, bronchus and lung (C33-C34): 157647
 
-2013
+2013:
 All other forms of chronic ischemic heart disease (I20, I25.1-I25.9): 190265
 Of trachea, bronchus and lung (C33-C34): 156369
 
-2014
+2014:
 All other forms of chronic ischemic heart disease (I20, I25.1-I25.9): 186696
 Of trachea, bronchus and lung (C33-C34): 155749
 
-2015
+2015:
 All other forms of chronic ischemic heart disease (I20, I25.1-I25.9): 188413
 Of trachea, bronchus and lung (C33-C34): 153952
 
 <b>D</b>
+
 In the last question we looked for the causes of death of each human race separately for the whole 11 years. Each entry was separated according to the race field (16 items), which contains the most data in relation to the other fields in the dataset that relate to human race indication. An important observation is that this field does not separate the race of Spanish origin from the whites.
 Below are some examples of visualizing the results of four races from those in this field, the dataset.
 
 
 ![alt text](https://github.com/AM1241/Usa-Mortality-Analysis-from-Kaggle-via-Pyspark/blob/main/images/img4.1.png?raw=true)
+
+
 Whites: The total number of deaths throughout the 11 years is 23,703,335.
 Unusual diseases: 4,223,428,
 Ischemic heart disease: 3,741,934,
@@ -148,6 +154,8 @@ Chronic Respiratory Problems: 1,415,205
 
 
 ![alt text](https://github.com/AM1241/Usa-Mortality-Analysis-from-Kaggle-via-Pyspark/blob/main/images/img4.2.png?raw=true)
+
+
 Colored: The total number of deaths throughout the 11 years is 3,258,257.
 Unusual diseases: 528,724,
 Ischemic heart disease: 454,375,
@@ -157,6 +165,8 @@ Tracheal cancers: 182,243
 
 
 ![alt text](https://github.com/AM1241/Usa-Mortality-Analysis-from-Kaggle-via-Pyspark/blob/main/images/img4.3.png?raw=true)
+
+
 Native American: The total number of deaths throughout the 11 years is 174,392.
 Unusual diseases: 30,221,
 Ischemic heart disease: 21,037,
@@ -167,6 +177,8 @@ Other malignancies: 8,890
 
 
 ![alt text](https://github.com/AM1241/Usa-Mortality-Analysis-from-Kaggle-via-Pyspark/blob/main/images/img4.4.png?raw=true)
+
+
 Filipinos living in the US: The total number of deaths throughout the 11 years is 106,432.
 Ischemic heart disease: 17,866,
 Unusual diseases: 14,391
