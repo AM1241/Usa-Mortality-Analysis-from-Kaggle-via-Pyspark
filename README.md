@@ -1,6 +1,8 @@
 # Usa-Mortality-Analysis-from-Kaggle-via-Pyspark
 Application that analyzes the USA Mortality Dataset From Kaggle using Pyspark, Flask, CherryPy and Chart.js
 
+Dataset : https://www.kaggle.com/cdc/mortality/version/2
+
 Kaggle is a website that contains various types of datasets online and free, which one can analyze or apply machine learning techniques. 
 This specific contains information about the USA MORTALITY for the last 11 years (2005-up to 2015). 
 For each year, there is a csv file with the columns of the dataset for the various fields and for each there is a numeric code. Numeric codes are mapped to values via a json file. The dataset contains information on the age, sex, educational level and origin of the deceased, as well as codes on the cause of death, etc.
