@@ -23,7 +23,7 @@ def life_expectance():
 
 		from_year = int(request.form['from_year'])
 		to_year = int(request.form['to_year'])
-		res = spark_engine.prosdokimo_zois(from_year,to_year) 
+		res = spark_engine.life_expectance(from_year,to_year) 
 		labels = []
 		values = []
 		for key in res: 
